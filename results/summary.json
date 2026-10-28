@@ -1,0 +1,2210 @@
+[
+  {
+    "job": "baseline_c2000_combined_s10001",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.8489583333333,
+    "mean_success_length": null,
+    "contact_steps": 644,
+    "contact_bouts": 520,
+    "finger_share": [
+      0.040372670807453416,
+      0.4953416149068323,
+      0.4642857142857143,
+      0.0
+    ],
+    "active_finger_regions": 10,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 644,
+        "total_contact_bouts": 520,
+        "mean_contacting_fingers_per_control_step": 0.0056118091984872515,
+        "effective_regions": 3.8566961476751547,
+        "top2_contact_step_share": 0.687888198757764,
+        "top2_contact_bout_share": 0.6692307692307692,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.391304347826087
+          },
+          {
+            "region": 13,
+            "share": 0.296583850931677
+          },
+          {
+            "region": 9,
+            "share": 0.1972049689440994
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_combined_s10002",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.6744791666667,
+    "mean_success_length": null,
+    "contact_steps": 914,
+    "contact_bouts": 752,
+    "finger_share": [
+      0.03282275711159737,
+      0.5021881838074398,
+      0.4638949671772429,
+      0.0010940919037199124
+    ],
+    "active_finger_regions": 13,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 914,
+        "total_contact_bouts": 752,
+        "mean_contacting_fingers_per_control_step": 0.007969239085891656,
+        "effective_regions": 3.170668280256164,
+        "top2_contact_step_share": 0.7461706783369803,
+        "top2_contact_bout_share": 0.7220744680851063,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.6017505470459519
+          },
+          {
+            "region": 9,
+            "share": 0.14442013129102846
+          },
+          {
+            "region": 13,
+            "share": 0.12253829321663019
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_friction_high_s10001",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.8958333333333,
+    "mean_success_length": null,
+    "contact_steps": 715,
+    "contact_bouts": 584,
+    "finger_share": [
+      0.05034965034965035,
+      0.4965034965034965,
+      0.45314685314685316,
+      0.0
+    ],
+    "active_finger_regions": 11,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 715,
+        "total_contact_bouts": 584,
+        "mean_contacting_fingers_per_control_step": 0.006229525336307242,
+        "effective_regions": 3.8394238543490595,
+        "top2_contact_step_share": 0.6587412587412588,
+        "top2_contact_bout_share": 0.6386986301369864,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.427972027972028
+          },
+          {
+            "region": 13,
+            "share": 0.23076923076923078
+          },
+          {
+            "region": 9,
+            "share": 0.2111888111888112
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_friction_high_s10002",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.9973958333333,
+    "mean_success_length": null,
+    "contact_steps": 1011,
+    "contact_bouts": 832,
+    "finger_share": [
+      0.036597428288822946,
+      0.49060336300692386,
+      0.47279920870425324,
+      0.0
+    ],
+    "active_finger_regions": 11,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 1011,
+        "total_contact_bouts": 832,
+        "mean_contacting_fingers_per_control_step": 0.00880546966859731,
+        "effective_regions": 3.1691302820163147,
+        "top2_contact_step_share": 0.7784371909000989,
+        "top2_contact_bout_share": 0.7608173076923077,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.6033630069238378
+          },
+          {
+            "region": 9,
+            "share": 0.17507418397626112
+          },
+          {
+            "region": 6,
+            "share": 0.10089020771513353
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_friction_low_s10001",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.3151041666667,
+    "mean_success_length": null,
+    "contact_steps": 357,
+    "contact_bouts": 275,
+    "finger_share": [
+      0.03361344537815126,
+      0.5938375350140056,
+      0.37254901960784315,
+      0.0
+    ],
+    "active_finger_regions": 12,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 357,
+        "total_contact_bouts": 275,
+        "mean_contacting_fingers_per_control_step": 0.0031164613759569804,
+        "effective_regions": 3.839455892250477,
+        "top2_contact_step_share": 0.7086834733893558,
+        "top2_contact_bout_share": 0.6945454545454546,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.38935574229691877
+          },
+          {
+            "region": 13,
+            "share": 0.31932773109243695
+          },
+          {
+            "region": 6,
+            "share": 0.15126050420168066
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_friction_low_s10002",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.2265625,
+    "mean_success_length": null,
+    "contact_steps": 543,
+    "contact_bouts": 440,
+    "finger_share": [
+      0.014732965009208104,
+      0.5174953959484346,
+      0.4677716390423573,
+      0.0
+    ],
+    "active_finger_regions": 11,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 543,
+        "total_contact_bouts": 440,
+        "mean_contacting_fingers_per_control_step": 0.00474157126764991,
+        "effective_regions": 3.4751862759495724,
+        "top2_contact_step_share": 0.6961325966850829,
+        "top2_contact_bout_share": 0.6954545454545454,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.5303867403314917
+          },
+          {
+            "region": 6,
+            "share": 0.16574585635359115
+          },
+          {
+            "region": 9,
+            "share": 0.15837937384898712
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_nominal_s10001",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 299.0,
+    "mean_success_length": null,
+    "contact_steps": 643,
+    "contact_bouts": 515,
+    "finger_share": [
+      0.03732503888024884,
+      0.4681181959564541,
+      0.49455676516329705,
+      0.0
+    ],
+    "active_finger_regions": 12,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 643,
+        "total_contact_bouts": 515,
+        "mean_contacting_fingers_per_control_step": 0.005600264771460424,
+        "effective_regions": 3.863777075465159,
+        "top2_contact_step_share": 0.6765163297045101,
+        "top2_contact_bout_share": 0.6466019417475728,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.4105754276827372
+          },
+          {
+            "region": 13,
+            "share": 0.26594090202177295
+          },
+          {
+            "region": 9,
+            "share": 0.18662519440124417
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_nominal_s10002",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 299.0,
+    "mean_success_length": null,
+    "contact_steps": 856,
+    "contact_bouts": 707,
+    "finger_share": [
+      0.028037383177570093,
+      0.5514018691588785,
+      0.41705607476635514,
+      0.0035046728971962616
+    ],
+    "active_finger_regions": 12,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 856,
+        "total_contact_bouts": 707,
+        "mean_contacting_fingers_per_control_step": 0.007455406911928651,
+        "effective_regions": 3.221347930567814,
+        "top2_contact_step_share": 0.7324766355140186,
+        "top2_contact_bout_share": 0.7128712871287128,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.5911214953271028
+          },
+          {
+            "region": 9,
+            "share": 0.1413551401869159
+          },
+          {
+            "region": 6,
+            "share": 0.1378504672897196
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_xy2mm_s10001",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 299.0,
+    "mean_success_length": null,
+    "contact_steps": 608,
+    "contact_bouts": 480,
+    "finger_share": [
+      0.07072368421052631,
+      0.4720394736842105,
+      0.45230263157894735,
+      0.004934210526315789
+    ],
+    "active_finger_regions": 13,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 608,
+        "total_contact_bouts": 480,
+        "mean_contacting_fingers_per_control_step": 0.005295429208472687,
+        "effective_regions": 3.8717036086206873,
+        "top2_contact_step_share": 0.680921052631579,
+        "top2_contact_bout_share": 0.6583333333333333,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.42598684210526316
+          },
+          {
+            "region": 13,
+            "share": 0.25493421052631576
+          },
+          {
+            "region": 9,
+            "share": 0.1875
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_xy2mm_s10002",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.8567708333333,
+    "mean_success_length": null,
+    "contact_steps": 954,
+    "contact_bouts": 765,
+    "finger_share": [
+      0.03249475890985325,
+      0.5639412997903563,
+      0.40356394129979034,
+      0.0
+    ],
+    "active_finger_regions": 12,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 954,
+        "total_contact_bouts": 765,
+        "mean_contacting_fingers_per_control_step": 0.008312928608150853,
+        "effective_regions": 3.187468353741209,
+        "top2_contact_step_share": 0.7431865828092243,
+        "top2_contact_bout_share": 0.7150326797385621,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.6048218029350105
+          },
+          {
+            "region": 9,
+            "share": 0.13836477987421383
+          },
+          {
+            "region": 13,
+            "share": 0.12054507337526206
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_xy4mm_s10001",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.8098958333333,
+    "mean_success_length": null,
+    "contact_steps": 611,
+    "contact_bouts": 483,
+    "finger_share": [
+      0.05073649754500818,
+      0.5270049099836334,
+      0.42225859247135844,
+      0.0
+    ],
+    "active_finger_regions": 13,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 611,
+        "total_contact_bouts": 483,
+        "mean_contacting_fingers_per_control_step": 0.0053249435695423685,
+        "effective_regions": 3.939465601430032,
+        "top2_contact_step_share": 0.6677577741407529,
+        "top2_contact_bout_share": 0.6356107660455487,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.397708674304419
+          },
+          {
+            "region": 13,
+            "share": 0.2700490998363339
+          },
+          {
+            "region": 9,
+            "share": 0.19967266775777415
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_xy4mm_s10002",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.7734375,
+    "mean_success_length": null,
+    "contact_steps": 874,
+    "contact_bouts": 698,
+    "finger_share": [
+      0.030892448512585814,
+      0.5366132723112128,
+      0.4302059496567506,
+      0.002288329519450801
+    ],
+    "active_finger_regions": 14,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 874,
+        "total_contact_bouts": 698,
+        "mean_contacting_fingers_per_control_step": 0.007617951869187389,
+        "effective_regions": 3.2665408372625153,
+        "top2_contact_step_share": 0.7414187643020596,
+        "top2_contact_bout_share": 0.7191977077363897,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.5926773455377574
+          },
+          {
+            "region": 9,
+            "share": 0.14874141876430205
+          },
+          {
+            "region": 6,
+            "share": 0.12242562929061784
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_yaw2deg_s10001",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.5364583333333,
+    "mean_success_length": null,
+    "contact_steps": 643,
+    "contact_bouts": 522,
+    "finger_share": [
+      0.05909797822706065,
+      0.49611197511664074,
+      0.4432348367029549,
+      0.0015552099533437014
+    ],
+    "active_finger_regions": 15,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 643,
+        "total_contact_bouts": 522,
+        "mean_contacting_fingers_per_control_step": 0.005608960379629791,
+        "effective_regions": 3.951119146761328,
+        "top2_contact_step_share": 0.6749611197511665,
+        "top2_contact_bout_share": 0.6436781609195402,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.38724727838258166
+          },
+          {
+            "region": 13,
+            "share": 0.28771384136858474
+          },
+          {
+            "region": 9,
+            "share": 0.2006220839813375
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "baseline_c2000_yaw2deg_s10002",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 298.578125,
+    "mean_success_length": null,
+    "contact_steps": 886,
+    "contact_bouts": 714,
+    "finger_share": [
+      0.045146726862302484,
+      0.5507900677200903,
+      0.4040632054176072,
+      0.0
+    ],
+    "active_finger_regions": 11,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 886,
+        "total_contact_bouts": 714,
+        "mean_contacting_fingers_per_control_step": 0.007727597816037818,
+        "effective_regions": 3.272302706260031,
+        "top2_contact_step_share": 0.7415349887133182,
+        "top2_contact_bout_share": 0.7072829131652661,
+        "top_regions": [
+          {
+            "region": 16,
+            "share": 0.5756207674943566
+          },
+          {
+            "region": 9,
+            "share": 0.16591422121896163
+          },
+          {
+            "region": 6,
+            "share": 0.1309255079006772
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c1000_nominal_s10001",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 296.6588541666667,
+    "mean_success_length": null,
+    "contact_steps": 46913,
+    "contact_bouts": 6639,
+    "finger_share": [
+      0.49295504444397076,
+      0.49589665977447617,
+      0.006586660413957752,
+      0.004561635367595336
+    ],
+    "active_finger_regions": 26,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 46913,
+        "total_contact_bouts": 6639,
+        "mean_contacting_fingers_per_control_step": 0.4118173758087028,
+        "effective_regions": 3.6023169250127474,
+        "top2_contact_step_share": 0.7468292370984588,
+        "top2_contact_bout_share": 0.737008585630366,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.4673544646473259
+          },
+          {
+            "region": 24,
+            "share": 0.27947477245113295
+          },
+          {
+            "region": 16,
+            "share": 0.1840854347409034
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c1000_nominal_s10002",
+    "episodes": 384,
+    "successes": 0,
+    "success_rate": 0.0,
+    "wilson95_descriptive": [
+      0.0,
+      0.009905074649031977
+    ],
+    "mean_length": 296.8020833333333,
+    "mean_success_length": null,
+    "contact_steps": 67467,
+    "contact_bouts": 8518,
+    "finger_share": [
+      0.49760623712333435,
+      0.4965983369647383,
+      0.003053344598099812,
+      0.002742081313827501
+    ],
+    "active_finger_regions": 24,
+    "groups": {
+      "success": {
+        "episodes": 0,
+        "total_contact_steps": 0,
+        "total_contact_bouts": 0,
+        "mean_contacting_fingers_per_control_step": 0.0,
+        "effective_regions": 0,
+        "top2_contact_step_share": 0.0,
+        "top2_contact_bout_share": 0.0,
+        "top_regions": [
+          {
+            "region": 31,
+            "share": 0.0
+          },
+          {
+            "region": 30,
+            "share": 0.0
+          },
+          {
+            "region": 1,
+            "share": 0.0
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 384,
+        "total_contact_steps": 67467,
+        "total_contact_bouts": 8518,
+        "mean_contacting_fingers_per_control_step": 0.5919611834485663,
+        "effective_regions": 3.629478883089543,
+        "top2_contact_step_share": 0.7439785376554464,
+        "top2_contact_bout_share": 0.7032167175393285,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.4767812411994012
+          },
+          {
+            "region": 24,
+            "share": 0.2671972964560452
+          },
+          {
+            "region": 16,
+            "share": 0.18345265092563773
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c1250_nominal_s10001",
+    "episodes": 384,
+    "successes": 373,
+    "success_rate": 0.9713541666666666,
+    "wilson95_descriptive": [
+      0.9494398226354523,
+      0.9839309142839499
+    ],
+    "mean_length": 217.06510416666666,
+    "mean_success_length": 215.4504021447721,
+    "contact_steps": 50827,
+    "contact_bouts": 5530,
+    "finger_share": [
+      0.4139532138430362,
+      0.5859877624097428,
+      5.902374722096524e-05,
+      0.0
+    ],
+    "active_finger_regions": 10,
+    "groups": {
+      "success": {
+        "episodes": 373,
+        "total_contact_steps": 48708,
+        "total_contact_bouts": 5389,
+        "mean_contacting_fingers_per_control_step": 0.6060998220574145,
+        "effective_regions": 2.2952402250056014,
+        "top2_contact_step_share": 0.9719347951055268,
+        "top2_contact_bout_share": 0.9272592317684172,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.5493142810215981
+          },
+          {
+            "region": 13,
+            "share": 0.4226205140839287
+          },
+          {
+            "region": 16,
+            "share": 0.013098464317976514
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 11,
+        "total_contact_steps": 2119,
+        "total_contact_bouts": 141,
+        "mean_contacting_fingers_per_control_step": 0.7086956521739131,
+        "effective_regions": 2.870097610684972,
+        "top2_contact_step_share": 0.8612553091080698,
+        "top2_contact_bout_share": 0.8865248226950354,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.5663048607833884
+          },
+          {
+            "region": 13,
+            "share": 0.2949504483246815
+          },
+          {
+            "region": 16,
+            "share": 0.10004719207173195
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c1250_nominal_s10002",
+    "episodes": 384,
+    "successes": 359,
+    "success_rate": 0.9348958333333334,
+    "wilson95_descriptive": [
+      0.9056595692000268,
+      0.9555167460792008
+    ],
+    "mean_length": 222.640625,
+    "mean_success_length": 217.54874651810584,
+    "contact_steps": 62604,
+    "contact_bouts": 5915,
+    "finger_share": [
+      0.31696057759887547,
+      0.6830394224011245,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 9,
+    "groups": {
+      "success": {
+        "episodes": 359,
+        "total_contact_steps": 58034,
+        "total_contact_bouts": 5498,
+        "mean_contacting_fingers_per_control_step": 0.7430729833546735,
+        "effective_regions": 2.073030594505684,
+        "top2_contact_step_share": 0.9828893407312954,
+        "top2_contact_bout_share": 0.9119679883594034,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.654237171313368
+          },
+          {
+            "region": 13,
+            "share": 0.3286521694179274
+          },
+          {
+            "region": 16,
+            "share": 0.011338181066271496
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 25,
+        "total_contact_steps": 4570,
+        "total_contact_bouts": 417,
+        "mean_contacting_fingers_per_control_step": 0.6180687043548824,
+        "effective_regions": 1.6608830948052042,
+        "top2_contact_step_share": 0.9910284463894967,
+        "top2_contact_bout_share": 0.920863309352518,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.82472647702407
+          },
+          {
+            "region": 13,
+            "share": 0.16630196936542668
+          },
+          {
+            "region": 16,
+            "share": 0.0056892778993435445
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_combined_s10001",
+    "episodes": 384,
+    "successes": 326,
+    "success_rate": 0.8489583333333334,
+    "wilson95_descriptive": [
+      0.8096960678573016,
+      0.8813076821272282
+    ],
+    "mean_length": 226.07291666666666,
+    "mean_success_length": 213.37423312883436,
+    "contact_steps": 52713,
+    "contact_bouts": 4509,
+    "finger_share": [
+      0.5005786048982225,
+      0.4994213951017776,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 10,
+    "groups": {
+      "success": {
+        "episodes": 326,
+        "total_contact_steps": 42592,
+        "total_contact_bouts": 3748,
+        "mean_contacting_fingers_per_control_step": 0.6123059229442208,
+        "effective_regions": 2.296644745877342,
+        "top2_contact_step_share": 0.9693604432757326,
+        "top2_contact_bout_share": 0.9295624332977588,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5132184447783621
+          },
+          {
+            "region": 24,
+            "share": 0.4561419984973704
+          },
+          {
+            "region": 16,
+            "share": 0.02338467317806161
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 58,
+        "total_contact_steps": 10121,
+        "total_contact_bouts": 761,
+        "mean_contacting_fingers_per_control_step": 0.5866566195223742,
+        "effective_regions": 2.593432147507832,
+        "top2_contact_step_share": 0.9214504495603201,
+        "top2_contact_bout_share": 0.8804204993429697,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5326548760003952
+          },
+          {
+            "region": 24,
+            "share": 0.3887955735599249
+          },
+          {
+            "region": 16,
+            "share": 0.06175279122616342
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_combined_s10002",
+    "episodes": 384,
+    "successes": 328,
+    "success_rate": 0.8541666666666666,
+    "wilson95_descriptive": [
+      0.815357887826941,
+      0.8859593509633281
+    ],
+    "mean_length": 227.86458333333334,
+    "mean_success_length": 216.20426829268294,
+    "contact_steps": 63704,
+    "contact_bouts": 5132,
+    "finger_share": [
+      0.33071706643224913,
+      0.6692829335677508,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 12,
+    "groups": {
+      "success": {
+        "episodes": 328,
+        "total_contact_steps": 50802,
+        "total_contact_bouts": 4246,
+        "mean_contacting_fingers_per_control_step": 0.7163787633081858,
+        "effective_regions": 2.298485433690865,
+        "top2_contact_step_share": 0.9603755757647336,
+        "top2_contact_bout_share": 0.9163918982571833,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.5884413999448841
+          },
+          {
+            "region": 13,
+            "share": 0.3719341758198496
+          },
+          {
+            "region": 16,
+            "share": 0.03291209007519389
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 56,
+        "total_contact_steps": 12902,
+        "total_contact_bouts": 886,
+        "mean_contacting_fingers_per_control_step": 0.7779318661441061,
+        "effective_regions": 2.4234558032413736,
+        "top2_contact_step_share": 0.9489226476515269,
+        "top2_contact_bout_share": 0.9018058690744921,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.539838784684545
+          },
+          {
+            "region": 13,
+            "share": 0.40908386296698185
+          },
+          {
+            "region": 16,
+            "share": 0.0392962331421485
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_friction_high_s10001",
+    "episodes": 384,
+    "successes": 239,
+    "success_rate": 0.6223958333333334,
+    "wilson95_descriptive": [
+      0.5729201214132715,
+      0.669446865521601
+    ],
+    "mean_length": 261.0598958333333,
+    "mean_success_length": 238.76569037656904,
+    "contact_steps": 61797,
+    "contact_bouts": 6185,
+    "finger_share": [
+      0.5086169231516093,
+      0.4913830768483907,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 13,
+    "groups": {
+      "success": {
+        "episodes": 239,
+        "total_contact_steps": 37100,
+        "total_contact_bouts": 3623,
+        "mean_contacting_fingers_per_control_step": 0.6501358100411812,
+        "effective_regions": 2.6942148153724466,
+        "top2_contact_step_share": 0.9025876010781672,
+        "top2_contact_bout_share": 0.9177477228815898,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.49180592991913746
+          },
+          {
+            "region": 24,
+            "share": 0.41078167115902964
+          },
+          {
+            "region": 16,
+            "share": 0.08256064690026954
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 145,
+        "total_contact_steps": 24697,
+        "total_contact_bouts": 2562,
+        "mean_contacting_fingers_per_control_step": 0.5719281181973971,
+        "effective_regions": 3.0267402391492384,
+        "top2_contact_step_share": 0.8626958739927927,
+        "top2_contact_bout_share": 0.8571428571428571,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5177147021905495
+          },
+          {
+            "region": 24,
+            "share": 0.3449811718022432
+          },
+          {
+            "region": 16,
+            "share": 0.09159007166862372
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_friction_high_s10002",
+    "episodes": 384,
+    "successes": 238,
+    "success_rate": 0.6197916666666666,
+    "wilson95_descriptive": [
+      0.5702777139165016,
+      0.666932528615501
+    ],
+    "mean_length": 260.6640625,
+    "mean_success_length": 240.1596638655462,
+    "contact_steps": 60617,
+    "contact_bouts": 6724,
+    "finger_share": [
+      0.3604269429367999,
+      0.6395730570632001,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 12,
+    "groups": {
+      "success": {
+        "episodes": 238,
+        "total_contact_steps": 36874,
+        "total_contact_bouts": 3765,
+        "mean_contacting_fingers_per_control_step": 0.6451240421288359,
+        "effective_regions": 2.4987813347205403,
+        "top2_contact_step_share": 0.9321201930899821,
+        "top2_contact_bout_share": 0.9168658698539177,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.5670119867657428
+          },
+          {
+            "region": 13,
+            "share": 0.3651082063242393
+          },
+          {
+            "region": 16,
+            "share": 0.0523946412106091
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 146,
+        "total_contact_steps": 23743,
+        "total_contact_bouts": 2959,
+        "mean_contacting_fingers_per_control_step": 0.5529729603838182,
+        "effective_regions": 3.300494940570993,
+        "top2_contact_step_share": 0.7422819357284253,
+        "top2_contact_bout_share": 0.8817167962149375,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.37581602998778585
+          },
+          {
+            "region": 24,
+            "share": 0.36646590574063936
+          },
+          {
+            "region": 16,
+            "share": 0.22343427536537083
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_friction_low_s10001",
+    "episodes": 384,
+    "successes": 255,
+    "success_rate": 0.6640625,
+    "wilson95_descriptive": [
+      0.6154023610054056,
+      0.7094725363753809
+    ],
+    "mean_length": 238.421875,
+    "mean_success_length": 215.3294117647059,
+    "contact_steps": 47271,
+    "contact_bouts": 3984,
+    "finger_share": [
+      0.546064183114383,
+      0.45393581688561696,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 10,
+    "groups": {
+      "success": {
+        "episodes": 255,
+        "total_contact_steps": 30355,
+        "total_contact_bouts": 2511,
+        "mean_contacting_fingers_per_control_step": 0.55282376295325,
+        "effective_regions": 2.681366607025443,
+        "top2_contact_step_share": 0.8446713885686048,
+        "top2_contact_bout_share": 0.8677817602548785,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.6109372426288915
+          },
+          {
+            "region": 24,
+            "share": 0.2337341459397134
+          },
+          {
+            "region": 16,
+            "share": 0.1427112502058969
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 129,
+        "total_contact_steps": 16916,
+        "total_contact_bouts": 1473,
+        "mean_contacting_fingers_per_control_step": 0.4616182289534725,
+        "effective_regions": 2.9910924845590547,
+        "top2_contact_step_share": 0.782158902813904,
+        "top2_contact_bout_share": 0.781398506449423,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5767912035942303
+          },
+          {
+            "region": 16,
+            "share": 0.20536769921967368
+          },
+          {
+            "region": 24,
+            "share": 0.17504138094112084
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_friction_low_s10002",
+    "episodes": 384,
+    "successes": 309,
+    "success_rate": 0.8046875,
+    "wilson95_descriptive": [
+      0.7620987967855478,
+      0.8412402983501984
+    ],
+    "mean_length": 225.73177083333334,
+    "mean_success_length": 213.06796116504853,
+    "contact_steps": 55039,
+    "contact_bouts": 4565,
+    "finger_share": [
+      0.2626501208234161,
+      0.7373498791765839,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 10,
+    "groups": {
+      "success": {
+        "episodes": 309,
+        "total_contact_steps": 46360,
+        "total_contact_bouts": 3731,
+        "mean_contacting_fingers_per_control_step": 0.7041526170296789,
+        "effective_regions": 2.769891916354794,
+        "top2_contact_step_share": 0.8771354616048318,
+        "top2_contact_bout_share": 0.85660680782632,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.4644521138912856
+          },
+          {
+            "region": 13,
+            "share": 0.41268334771354614
+          },
+          {
+            "region": 16,
+            "share": 0.11395599654874893
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 75,
+        "total_contact_steps": 8679,
+        "total_contact_bouts": 834,
+        "mean_contacting_fingers_per_control_step": 0.4163987909609941,
+        "effective_regions": 3.291064283673911,
+        "top2_contact_step_share": 0.7299228021661481,
+        "top2_contact_bout_share": 0.7565947242206235,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.42101624611130317
+          },
+          {
+            "region": 16,
+            "share": 0.308906556054845
+          },
+          {
+            "region": 24,
+            "share": 0.2379306371701809
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_nominal_s10001",
+    "episodes": 384,
+    "successes": 333,
+    "success_rate": 0.8671875,
+    "wilson95_descriptive": [
+      0.8295794863002123,
+      0.897521474504405
+    ],
+    "mean_length": 225.59375,
+    "mean_success_length": 214.36936936936937,
+    "contact_steps": 54564,
+    "contact_bouts": 4413,
+    "finger_share": [
+      0.47157466461403125,
+      0.5284253353859688,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 9,
+    "groups": {
+      "success": {
+        "episodes": 333,
+        "total_contact_steps": 45461,
+        "total_contact_bouts": 3702,
+        "mean_contacting_fingers_per_control_step": 0.6368424739090845,
+        "effective_regions": 2.2552225765734857,
+        "top2_contact_step_share": 0.9751655264952377,
+        "top2_contact_bout_share": 0.9405726634251755,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5003629484613185
+          },
+          {
+            "region": 24,
+            "share": 0.4748025780339192
+          },
+          {
+            "region": 16,
+            "share": 0.018477376212577813
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 51,
+        "total_contact_steps": 9103,
+        "total_contact_bouts": 711,
+        "mean_contacting_fingers_per_control_step": 0.5971921537755035,
+        "effective_regions": 2.9352303386009866,
+        "top2_contact_step_share": 0.8837745798088542,
+        "top2_contact_bout_share": 0.819971870604782,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.49038778424695156
+          },
+          {
+            "region": 24,
+            "share": 0.39338679556190265
+          },
+          {
+            "region": 16,
+            "share": 0.07832582665055476
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_nominal_s10002",
+    "episodes": 384,
+    "successes": 312,
+    "success_rate": 0.8125,
+    "wilson95_descriptive": [
+      0.7704359931664777,
+      0.8483733351778773
+    ],
+    "mean_length": 231.52083333333334,
+    "mean_success_length": 216.21794871794873,
+    "contact_steps": 61434,
+    "contact_bouts": 4984,
+    "finger_share": [
+      0.30704495881759286,
+      0.6929550411824071,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 13,
+    "groups": {
+      "success": {
+        "episodes": 312,
+        "total_contact_steps": 47603,
+        "total_contact_bouts": 4012,
+        "mean_contacting_fingers_per_control_step": 0.7056477912837237,
+        "effective_regions": 2.2635270439977515,
+        "top2_contact_step_share": 0.9644770287586917,
+        "top2_contact_bout_share": 0.9182452642073778,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.609541415457009
+          },
+          {
+            "region": 13,
+            "share": 0.35493561330168266
+          },
+          {
+            "region": 16,
+            "share": 0.027267189042707394
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 72,
+        "total_contact_steps": 13831,
+        "total_contact_bouts": 972,
+        "mean_contacting_fingers_per_control_step": 0.6449822794254804,
+        "effective_regions": 2.5570013975045796,
+        "top2_contact_step_share": 0.9167811438073892,
+        "top2_contact_bout_share": 0.8600823045267489,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.5340177861326006
+          },
+          {
+            "region": 13,
+            "share": 0.38276335767478853
+          },
+          {
+            "region": 16,
+            "share": 0.07656713180536476
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_xy2mm_s10001",
+    "episodes": 384,
+    "successes": 315,
+    "success_rate": 0.8203125,
+    "wilson95_descriptive": [
+      0.778798247379314,
+      0.8554813141736499
+    ],
+    "mean_length": 227.640625,
+    "mean_success_length": 213.31428571428572,
+    "contact_steps": 53753,
+    "contact_bouts": 4586,
+    "finger_share": [
+      0.49740479601138543,
+      0.5025952039886146,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 12,
+    "groups": {
+      "success": {
+        "episodes": 315,
+        "total_contact_steps": 42092,
+        "total_contact_bouts": 3748,
+        "mean_contacting_fingers_per_control_step": 0.6264249784206923,
+        "effective_regions": 2.296286678415277,
+        "top2_contact_step_share": 0.9718236244416991,
+        "top2_contact_bout_share": 0.9271611526147279,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5166539960087427
+          },
+          {
+            "region": 24,
+            "share": 0.4551696284329564
+          },
+          {
+            "region": 16,
+            "share": 0.01679654091038677
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 69,
+        "total_contact_steps": 11661,
+        "total_contact_bouts": 838,
+        "mean_contacting_fingers_per_control_step": 0.5767062314540059,
+        "effective_regions": 2.852589486872265,
+        "top2_contact_step_share": 0.8876597204356401,
+        "top2_contact_bout_share": 0.8424821002386634,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5258554154875225
+          },
+          {
+            "region": 24,
+            "share": 0.36180430494811766
+          },
+          {
+            "region": 16,
+            "share": 0.07700883286167567
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_xy2mm_s10002",
+    "episodes": 384,
+    "successes": 332,
+    "success_rate": 0.8645833333333334,
+    "wilson95_descriptive": [
+      0.8267271507179672,
+      0.8952170656837803
+    ],
+    "mean_length": 226.984375,
+    "mean_success_length": 215.75301204819277,
+    "contact_steps": 64940,
+    "contact_bouts": 5276,
+    "finger_share": [
+      0.3392054203880505,
+      0.6607945796119495,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 11,
+    "groups": {
+      "success": {
+        "episodes": 332,
+        "total_contact_steps": 52912,
+        "total_contact_bouts": 4523,
+        "mean_contacting_fingers_per_control_step": 0.7386849085578668,
+        "effective_regions": 2.261365645368459,
+        "top2_contact_step_share": 0.9711974599334744,
+        "top2_contact_bout_share": 0.9133318593853637,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.5675839129120048
+          },
+          {
+            "region": 13,
+            "share": 0.4036135470214696
+          },
+          {
+            "region": 16,
+            "share": 0.020430148170547325
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 52,
+        "total_contact_steps": 12028,
+        "total_contact_bouts": 753,
+        "mean_contacting_fingers_per_control_step": 0.7744012361576101,
+        "effective_regions": 2.40881445712441,
+        "top2_contact_step_share": 0.9509477884935151,
+        "top2_contact_bout_share": 0.8950863213811421,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.5469737279680745
+          },
+          {
+            "region": 13,
+            "share": 0.40397406052544066
+          },
+          {
+            "region": 16,
+            "share": 0.0364981709344862
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_xy4mm_s10001",
+    "episodes": 384,
+    "successes": 314,
+    "success_rate": 0.8177083333333334,
+    "wilson95_descriptive": [
+      0.7760079706270276,
+      0.8531148465230668
+    ],
+    "mean_length": 229.8046875,
+    "mean_success_length": 214.43949044585986,
+    "contact_steps": 55692,
+    "contact_bouts": 4606,
+    "finger_share": [
+      0.48829275299863534,
+      0.5117072470013646,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 10,
+    "groups": {
+      "success": {
+        "episodes": 314,
+        "total_contact_steps": 42820,
+        "total_contact_bouts": 3698,
+        "mean_contacting_fingers_per_control_step": 0.635934297680221,
+        "effective_regions": 2.2698072859151095,
+        "top2_contact_step_share": 0.9739607659971976,
+        "top2_contact_bout_share": 0.9421308815575987,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5033629145259224
+          },
+          {
+            "region": 24,
+            "share": 0.4705978514712751
+          },
+          {
+            "region": 16,
+            "share": 0.018332554880896777
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 70,
+        "total_contact_steps": 12872,
+        "total_contact_bouts": 908,
+        "mean_contacting_fingers_per_control_step": 0.6155611878915404,
+        "effective_regions": 2.6982903803434914,
+        "top2_contact_step_share": 0.8973741454319453,
+        "top2_contact_bout_share": 0.8810572687224669,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.504894344313238
+          },
+          {
+            "region": 24,
+            "share": 0.3924798011187073
+          },
+          {
+            "region": 16,
+            "share": 0.08926351771286513
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_xy4mm_s10002",
+    "episodes": 384,
+    "successes": 316,
+    "success_rate": 0.8229166666666666,
+    "wilson95_descriptive": [
+      0.7815914461516474,
+      0.857844859804186
+    ],
+    "mean_length": 228.5546875,
+    "mean_success_length": 214.63924050632912,
+    "contact_steps": 64453,
+    "contact_bouts": 5053,
+    "finger_share": [
+      0.3176733433664841,
+      0.6823266566335159,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 10,
+    "groups": {
+      "success": {
+        "episodes": 316,
+        "total_contact_steps": 49549,
+        "total_contact_bouts": 4097,
+        "mean_contacting_fingers_per_control_step": 0.7305310647834163,
+        "effective_regions": 2.256046363315218,
+        "top2_contact_step_share": 0.964903428928939,
+        "top2_contact_bout_share": 0.9228703929704662,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.6077821954025309
+          },
+          {
+            "region": 13,
+            "share": 0.3571212335264082
+          },
+          {
+            "region": 16,
+            "share": 0.02803285636440695
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 68,
+        "total_contact_steps": 14904,
+        "total_contact_bouts": 956,
+        "mean_contacting_fingers_per_control_step": 0.7474798134309645,
+        "effective_regions": 2.6605086253346277,
+        "top2_contact_step_share": 0.9107622114868492,
+        "top2_contact_bout_share": 0.8776150627615062,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.5272410091250671
+          },
+          {
+            "region": 13,
+            "share": 0.38352120236178205
+          },
+          {
+            "region": 16,
+            "share": 0.07038378958668813
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_yaw2deg_s10001",
+    "episodes": 384,
+    "successes": 323,
+    "success_rate": 0.8411458333333334,
+    "wilson95_descriptive": [
+      0.8012300717345512,
+      0.8743034450413699
+    ],
+    "mean_length": 226.9296875,
+    "mean_success_length": 213.59442724458205,
+    "contact_steps": 53466,
+    "contact_bouts": 4641,
+    "finger_share": [
+      0.5067519545131486,
+      0.49324804548685147,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 11,
+    "groups": {
+      "success": {
+        "episodes": 323,
+        "total_contact_steps": 41863,
+        "total_contact_bouts": 3768,
+        "mean_contacting_fingers_per_control_step": 0.6067892913568437,
+        "effective_regions": 2.2670946625690234,
+        "top2_contact_step_share": 0.9740104626997588,
+        "top2_contact_bout_share": 0.9323248407643312,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5247115591333635
+          },
+          {
+            "region": 24,
+            "share": 0.4492989035663951
+          },
+          {
+            "region": 16,
+            "share": 0.01724673339225569
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 61,
+        "total_contact_steps": 11603,
+        "total_contact_bouts": 873,
+        "mean_contacting_fingers_per_control_step": 0.6392837465564738,
+        "effective_regions": 2.536637548712231,
+        "top2_contact_step_share": 0.9320865293458588,
+        "top2_contact_bout_share": 0.8762886597938144,
+        "top_regions": [
+          {
+            "region": 13,
+            "share": 0.5429630268034129
+          },
+          {
+            "region": 24,
+            "share": 0.38912350254244593
+          },
+          {
+            "region": 16,
+            "share": 0.05222787210204258
+          }
+        ]
+      }
+    }
+  },
+  {
+    "job": "contactexplorer_c2000_yaw2deg_s10002",
+    "episodes": 384,
+    "successes": 323,
+    "success_rate": 0.8411458333333334,
+    "wilson95_descriptive": [
+      0.8012300717345512,
+      0.8743034450413699
+    ],
+    "mean_length": 229.39583333333334,
+    "mean_success_length": 216.3065015479876,
+    "contact_steps": 63853,
+    "contact_bouts": 5236,
+    "finger_share": [
+      0.332372793760669,
+      0.6676272062393309,
+      0.0,
+      0.0
+    ],
+    "active_finger_regions": 12,
+    "groups": {
+      "success": {
+        "episodes": 323,
+        "total_contact_steps": 51160,
+        "total_contact_bouts": 4406,
+        "mean_contacting_fingers_per_control_step": 0.732248414845349,
+        "effective_regions": 2.345996074631148,
+        "top2_contact_step_share": 0.9580531665363565,
+        "top2_contact_bout_share": 0.9103495233772129,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.566419077404222
+          },
+          {
+            "region": 13,
+            "share": 0.3916340891321345
+          },
+          {
+            "region": 16,
+            "share": 0.03340500390930414
+          }
+        ]
+      },
+      "failure": {
+        "episodes": 61,
+        "total_contact_steps": 12693,
+        "total_contact_bouts": 830,
+        "mean_contacting_fingers_per_control_step": 0.6966137972668899,
+        "effective_regions": 2.3963516574371555,
+        "top2_contact_step_share": 0.9498936421649729,
+        "top2_contact_bout_share": 0.9204819277108434,
+        "top_regions": [
+          {
+            "region": 24,
+            "share": 0.5774836524068384
+          },
+          {
+            "region": 13,
+            "share": 0.3724099897581344
+          },
+          {
+            "region": 16,
+            "share": 0.03419207437170094
+          }
+        ]
+      }
+    }
+  }
+]
